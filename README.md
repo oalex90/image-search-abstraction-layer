@@ -1,2 +1,1 @@
-# image-search-abstraction-layer
-FreeCodeCamp Backend Project
+# Backend Challenges boilerplate - package.json
